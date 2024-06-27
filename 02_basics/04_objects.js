@@ -70,9 +70,3 @@ courseInstructor : "rahul"
 
 const {courseInstructor : instructor} = 
 console.log(courseInstructor);
-
-{
-    name : "rahulya",
-    coursename :"js in hindi",
-    
-}
