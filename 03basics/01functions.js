@@ -17,4 +17,9 @@ function addTwoNumbers(number1 , number2){
 function loginUserMessage (username){
 return `${username} just logged in`
 }
-console.log(loginUserMessage("rahul"))
+//console.log(loginUserMessage("rahul"))
+
+function calculateCartPrice(num1){
+    return num1
+}
+console.log(calculateCartPrice(2));
